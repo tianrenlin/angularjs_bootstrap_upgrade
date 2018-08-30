@@ -4,5 +4,6 @@
 + 1、点击相应的导航时高亮显示
 + 2、刷新页面的时候相应的导航高亮
 + 3、解决导航隐藏的时候返回上一页的问题
+
 **详情代码请看 js/app.js**
 #### [查看效果](https://tianrenlin.github.io/angularjs_bootstrap_upgrade/)
